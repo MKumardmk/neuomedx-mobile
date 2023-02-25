@@ -1,0 +1,6 @@
+export const UPDATE_HOME = "update_home"
+export const UPDATE_USER_ID = "update_user_id"
+export const UPDATE_USER_TYPE = "update_user_type"
+export const UPDATE_AUTH_TOKEN = "update_auth_token"
+export const IS_VISITOR = "is_visitor"
+// export const ="update_mangage_emp"

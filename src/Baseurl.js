@@ -1,0 +1,1 @@
+export const baseurl="https://selvisoftware.in/sst8/trucov/api/"
